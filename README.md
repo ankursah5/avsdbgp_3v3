@@ -15,7 +15,7 @@ To get an basic idea about this **IP**, the working principle, basic implementat
 
 ## Parameters
 
-To view the specifications, go through [this](https://github.com/ankursah5/avsdbgp_3v3/blob/master/Prelayout/Files/specs.md)
+To view the specifications, go through [this](/Images/Circuit_and_Specs/avsdbgp_3v3.pdf)
 
 **Below is the compiled list of parameters according to specifications**
 
