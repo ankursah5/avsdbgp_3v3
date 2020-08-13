@@ -69,7 +69,7 @@ Open the terminal and type the following to install Magic
 ```
 $  wget http://opencircuitdesign.com/magic/archive/magic-8.3.32.tgz
 $  tar xvfz magic-8.3.32.tgz
-$  cd magic-8.3.28
+$  cd magic-8.3.32
 $  ./configure
 $  sudo make
 $  sudo make install
