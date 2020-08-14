@@ -34,7 +34,7 @@ To view the specifications, go through [this](/Images/Circuit_and_Specs/avsdbgp_
    
  ##  Future work and limitations
  
- - The reference voltage needs to needs to more accurate with specifications. 
+ - The reference voltage needs to be more accurate with specifications. 
  - A working Enable circuitry needs to implemented for easy switching of IP. 
  - The post layout spice file has parasitic BJTs. Their origin shall be studied and tried to get rid off. 
  - The Bipolar models are imported from LTspice.
