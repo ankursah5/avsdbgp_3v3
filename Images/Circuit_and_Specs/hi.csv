@@ -1,0 +1,4 @@
+Segment_Name,Address,Length,Filename
+Segment0,0x0aa,20,file1.txt
+Segment1,0x00bb,32,file2.txt
+Segment2,0x00cc,40,file3.txt
